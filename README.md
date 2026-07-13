@@ -4,70 +4,67 @@
 
 💻 Full Stack Developer
 
-🤖 Exploring AI & Data Analytics
-
-🌱 Always learning by building real-world projects.
+🌱 Passionate about building real-world web applications and continuously learning new technologies.
 
 ---
 
 ## 🚀 Tech Stack
 
-💻 Languages
+### 💻 Languages
 - Java
 - JavaScript
 - Python
 - SQL
-- C
-
-🌐 Frontend
 - HTML
 - CSS
-- JavaScript
-- React
-- Tailwind CSS
 
-⚙️ Backend
+### ⚙️ Frameworks & Libraries
+- React
 - Node.js
 - Express.js
 - FastAPI
 
-🗄️ Database
+### 🗄️ Databases
 - MongoDB
 - MySQL
 - SQLite
 
-🛠️ Tools
+### 🛠️ Tools
 - Git
 - GitHub
 - VS Code
+- Postman
 - Vercel
+- MongoDB Compass
 
 ---
 
 ## 📌 Featured Projects
 
-🌍 Travel Freak
-A travel platform for discovering destinations and planning trips.
+### 🌍 Travel Freak
+A responsive travel website to discover destinations with a clean and modern UI.
 
-💼 Job Board
-A modern job portal with authentication and recruiter/job seeker features.
+### 💼 Job Board
+A full-stack job portal with authentication and job management features.
 
-📝 Quiz Maker
-Interactive quiz platform with score tracking.
-
-🤖 SmartEdu Pulse
-AI + IoT based Smart Classroom Management System.
+### 📝 Quiz Maker
+An interactive quiz platform with score tracking.
 
 ---
 
-## 🎯 Currently Learning
+## 📚 Currently Learning
 
 - Advanced React
 - Backend Development
-- System Design
 - Data Structures & Algorithms
-- AI Applications
+- AI & Data Analytics
 
 ---
 
+## 📫 Connect With Me
 
+📧 Email: anshgupta51735@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/ansh-gupta-10a38b346
+
+⭐ Thanks for visiting my profile!
