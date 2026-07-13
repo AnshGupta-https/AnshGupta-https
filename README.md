@@ -33,7 +33,6 @@
 - Git
 - GitHub
 - VS Code
-- Postman
 - Vercel
 - MongoDB Compass
 
