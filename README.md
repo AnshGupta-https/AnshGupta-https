@@ -1,4 +1,4 @@
-# Hi, I'm Iansh Gupta 👋
+# Hi, I'm Ansh Gupta 👋
 
 🎓 B.Tech Information Technology Student
 
@@ -40,7 +40,6 @@
 - Git
 - GitHub
 - VS Code
-- Postman
 - Vercel
 
 ---
@@ -71,8 +70,4 @@ AI + IoT based Smart Classroom Management System.
 
 ---
 
-## 📫 Connect with Me
 
-LinkedIn: Your LinkedIn URL
-
-Email: Your Email
