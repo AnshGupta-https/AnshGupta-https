@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Iansh Gupta 👋
 
-<!--
-**AnshGupta-https/AnshGupta-https** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring AI & Data Analytics
+
+🌱 Always learning by building real-world projects.
+
+---
+
+## 🚀 Tech Stack
+
+💻 Languages
+- Java
+- JavaScript
+- Python
+- SQL
+- C
+
+🌐 Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+⚙️ Backend
+- Node.js
+- Express.js
+- FastAPI
+
+🗄️ Database
+- MongoDB
+- MySQL
+- SQLite
+
+🛠️ Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
+
+---
+
+## 📌 Featured Projects
+
+🌍 Travel Freak
+A travel platform for discovering destinations and planning trips.
+
+💼 Job Board
+A modern job portal with authentication and recruiter/job seeker features.
+
+📝 Quiz Maker
+Interactive quiz platform with score tracking.
+
+🤖 SmartEdu Pulse
+AI + IoT based Smart Classroom Management System.
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced React
+- Backend Development
+- System Design
+- Data Structures & Algorithms
+- AI Applications
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn: Your LinkedIn URL
+
+Email: Your Email
